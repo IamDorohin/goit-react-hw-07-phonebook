@@ -22,5 +22,7 @@ export const AppSection = styled.div`
   padding: 50px;
   border: 1px solid black;
   border-radius: 20px;
-  background-color: rgba(173, 164, 169, 0.8);
+  /* background-color: rgba(173, 164, 169, 0.8); */
+  background: linear-gradient(56deg, #000, #323232, #656363, #e3e1e1, #0f0c0c) 0
+    0/300% 300%;
 `;
